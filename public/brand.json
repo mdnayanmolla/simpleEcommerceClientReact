@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "Bname": "Zara",
+      "Blogo": "https://i.ibb.co/2jg2fJz/Zara.png",
+      "Badd1": "https://i.ibb.co/9gZMkwT/zara3.jpg",
+      "Badd2": "https://i.ibb.co/2vF48VG/zara2.jpg",
+      "Badd3": "https://i.ibb.co/WkHbqk9/zara1.jpg",
+      "title": "Zara"
+    },
+    {
+      "id": 2,
+      "Bname": "Nike",
+      "Blogo": "https://i.ibb.co/XLgbZCm/Nike.png",
+      "Badd1": "https://i.ibb.co/5kDV22P/nike3.jpg",
+      "Badd2": "https://i.ibb.co/TYhhbBw/nike2.jpg",
+      "Badd3": "https://i.ibb.co/09BrMgq/nike1.jpg",
+      "title": "Nike"
+    },
+    {
+      "id": 3,
+      "Bname": "Lacoste",
+      "Blogo": "https://i.ibb.co/hyJv1JP/Lacoste.png",
+      "Badd1": "https://i.ibb.co/3kMPvk7/loca1-jpeg.jpg",
+      "Badd2": "https://i.ibb.co/Dg2L9Dc/loca2.jpg",
+      "Badd3": "https://i.ibb.co/hH386Mj/loca2-jpeg.jpg",
+      "title": "Lacoste"
+    },
+    {
+      "id": 4,
+      "Bname": "Levis",
+      "Blogo": "https://i.ibb.co/thYjYZ6/Levi-s.png",
+      "Badd1": "https://i.ibb.co/FKPQjHb/leves1.jpg",
+      "Badd2": "https://i.ibb.co/9VyXG64/levis3.jpg",
+      "Badd3": "https://i.ibb.co/ZT1WyZv/levi2.jpg",
+      "title": "Levis"
+    },
+    {
+      "id": 5,
+      "Bname": "Gucci",
+      "Blogo": "https://i.ibb.co/kxNHzKF/Gucci.jpg",
+      "Badd1": "https://i.ibb.co/k6Mrzbf/gucci2.jpg",
+      "Badd2": "https://i.ibb.co/Ss4zGsc/gucci1.jpg",
+      "Badd3": "https://i.ibb.co/hmd2r7R/gucci3.jpg",
+      "title": "Gucci"
+    },
+    {
+      "id": 6,
+      "Bname": "Adidas",
+      "Blogo": "https://i.ibb.co/QmKHp68/Adidas.png",
+      "Badd1": "https://i.ibb.co/RPTRTYg/addidas1.jpg",
+      "Badd2": "https://i.ibb.co/YpC6XzP/adidas3.jpg",
+      "Badd3": "https://i.ibb.co/vq22g11/adidas2.jpg",
+      "title": "Adidas"
+    }
+  ]
+  
